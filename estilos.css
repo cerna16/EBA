@@ -1,0 +1,21 @@
+.inicio {
+	background: url(logo.jpg);
+	background-size: 50%;
+
+}
+.container{
+	widt:100% !important;
+
+
+}
+.menu{
+	background: black;
+	padding: 17px;
+	opacity: 0.7px;
+	display: auto;
+}
+.boton{
+background: green;
+background-size: 15%;
+}
+	
